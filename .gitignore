@@ -1,0 +1,23 @@
+# Dipendenze
+node_modules
+
+# Cartelle di build
+dist
+build
+
+# File di ambiente
+.env
+.env.local
+
+# File di log
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
